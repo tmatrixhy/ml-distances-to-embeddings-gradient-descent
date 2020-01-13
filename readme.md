@@ -1,3 +1,8 @@
 ## gradient-descent-from-scratch
 
-![Prompt](https://github.com/tmatrixhy/ml-distances-to-embeddings-gradient-descent/gradient-descent-prompt.jpg)
+# prompt
+![Prompt](https://github.com/tmatrixhy/ml-distances-to-embeddings-gradient-descent/blob/master/gradient-descent-prompt.jpg)
+
+# results
+
+![Results](https://github.com/tmatrixhy/ml-distances-to-embeddings-gradient-descent/blob/master/results.jpg)
